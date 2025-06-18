@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "RoboFriends",
+  "name": "RoboFriends Redux Progressive Web App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -24,6 +24,7 @@
     }
   ],
   "start_url": "./index.html",
+  "id": "/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
